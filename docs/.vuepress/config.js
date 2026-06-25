@@ -4,6 +4,7 @@ import { defineUserConfig } from 'vuepress'
 import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
+  base: '/ProtocolDocs/',
   lang: 'zh-CN',
 
   title: 'VuePress',
