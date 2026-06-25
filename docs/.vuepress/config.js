@@ -1,10 +1,10 @@
 import { blogPlugin } from '@vuepress/plugin-blog'
 import { defaultTheme } from '@vuepress/theme-default'
 import { defineUserConfig } from 'vuepress'
+import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
-  base: '/ProtocolDocs/',
-  lang: 'en-US',
+  lang: 'zh-CN',
 
   title: 'VuePress',
   description: 'My first VuePress Site',
@@ -137,5 +137,5 @@ export default defineUserConfig({
     }),
   ],
 
-  bundler: viteBundler(),
+  bundler: webpackBundler(),
 })
