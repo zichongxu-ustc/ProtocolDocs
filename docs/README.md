@@ -2,6 +2,8 @@
 home: true
 title: Home
 heroImage: https://vuejs.press/images/hero.png
+heroText: Protocol Docs
+tagline: for guolab by xzc
 actions:
   - text: Article
     link: /article/
