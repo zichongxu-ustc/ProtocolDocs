@@ -12,7 +12,7 @@ tag:
 
 ## Heading 2
 <iframe
-  src="../pdf/Perturb-seq_Screening_Protocol_v1.pdf"
+  :src="$withBase('/docs/pdf/Perturb-seq_Screening_Protocol_v1.pdf')"
   width="100%"
   height="800">
 </iframe>
