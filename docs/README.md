@@ -5,15 +5,15 @@ heroImage: https://vuejs.press/images/hero.png
 actions:
   - text: Article
     link: /article/
-    type: secondary
+    type: primary
 
   - text: Category
     link: /category/
-    type: secondary
+    type: primary
 
   - text: Tag
     link: /tag/
-    type: secondary
+    type: primary
 
 # features:
 #   - title: Simplicity First
