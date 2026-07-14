@@ -60,7 +60,7 @@ Program B 细胞核裂解
   </tr>
   <tr>
     <td rowspan="2">Heated</td>
-    <td>66℃ /td>
+    <td>66℃ </td>
     <td>45min </td>
   </tr>
   <tr>
