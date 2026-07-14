@@ -7,7 +7,7 @@ tag:
 archive: false
 ---
 
-# 核算胶回收
+# 核酸胶回收
 <!-- more -->
 ## 试剂
 

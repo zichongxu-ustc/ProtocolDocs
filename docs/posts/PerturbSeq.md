@@ -595,8 +595,8 @@ Set the reaction volume to ？
 7.  将其置于 PCR 仪上，运行 <b>cDNA Amplication </b>程序。   
 <span style="color: red;"><b>安全停止点：如果您要停止操作，请将样本置于4°C 的PCR仪中，或者将样本在2°C 至 8°C 下保存过夜。</b></span>
 
-## 直至下一安全停止点前需要的准备工作
-### 解冻试剂（2-8℃储存 ） 
+# 直至下一安全停止点前需要的准备工作
+解冻试剂（2-8℃储存 ） 
 
 
 <table>
@@ -812,7 +812,7 @@ Set the reaction volume to 25 μL
 10.  置于 PCR 仪上运行 QC Amplification 程序。   
 <span style="color: red;"><b>安全停止点：如果您要停止操作，请将样本置于 4°C 的PCR仪中，或者将样本在 2°C 至 8°C 下保存过夜。</b></span>
 
-## 直至下一安全停止点前需要的准备工作
+# 直至下一安全停止点前需要的准备工作
 解冻试剂： 
 
 <table>
@@ -883,7 +883,7 @@ QC 产物在 -25°C 至 -15°C 的条件下可稳定保存长达四周。
 
 The following image is a representative cDNA trace for a 17,000 human cell input of HEK 293 CRISPRCas9 perturbed cell line on a high sensitivity D5000 ScreenTape. Input material is purified cDNA following cDNA amplification prior to QC
 # Stage 3 gRNA Library Prep 
-## 直至下一安全停止点前需要的准备工作
+# 直至下一安全停止点前需要的准备工作
 1. 取出已完成 cDNA 分离（cDNA isolation）并保存在冰上的 CPIP。 
 2. 若 CPIPs 储存于-20℃，冰上溶解	
 3.	取出下表试剂	
@@ -1016,7 +1016,7 @@ Set the reaction volume to  135 μL
 8.  置于 PCR 仪上运行 gRNA Amplification 程序   
 <span style="color: red;"><b>安全停止点：如果您要停止操作样本在 2°C 至 8°C 下保存过夜。</b></span>
 
-## 直至下一安全停止点前需要的准备工作
+# 直至下一安全停止点前需要的准备工作
 取出以下试剂： 
 
 <table>
@@ -1099,7 +1099,7 @@ c. 不要搅动磁珠，移除并丢弃 200 μL 乙醇。
 17.  将 20 μL 上清液转移至新的 0.2 ml PCR 管中，<mark>立即置于冰上直至进行 gRNA Library 扩增 </mark>   
 <span style="color: red;"><b>安全停止点：如果您要停止操作样本请将纯化的gRNA cDNA在 -25°C 至-15°C 下保存，之至多保存7天。</b></span>
 
-## 直至下一安全停止点前需要的准备工作
+# 直至下一安全停止点前需要的准备工作
 取出以下试剂按顺序解冻:
 
 <table>
@@ -1194,7 +1194,7 @@ b.  PMM4 （12.5 μL）
 7.  在 PCR 仪中运行已设置的程序    
 <span style="color: red;"><b>安全停止点：如果您要停止操作, 请将样品在PCR仪中4°C储存或在2-8°C 下保存，至多过夜。</b></span>
 
-## 直至下一安全停止点前需要的准备工作
+# 直至下一安全停止点前需要的准备工作
 取出以下试剂 
 
 <table>
@@ -1253,7 +1253,7 @@ c. 不要搅动磁珠，移除并丢弃 200 μL 乙醇。
 <mark>本上清即为送测的 gRNA 文库 </mark>   
 <span style="color: red;"><b>安全停止点：如果您要停止操作, 请将纯化的gRNA文库在-25-15°C 下保存，至多14天。</b></span>
 
-## 直至下一安全停止点前需要的准备工作
+# 直至下一安全停止点前需要的准备工作
 1. 如果你从安全停止点后开始， 将 cDNA 取出并置于冰上 
 <mark>文库制备需要用从 cDNA 纯化步骤得到的全部 40 μL cDNA</mark>，而不是 QC 产物 
 
@@ -1555,7 +1555,7 @@ b.  PMM4 （12.5 μL）
 5.  运行已设置的程序    
 <span style="color: red;"><b>安全停止点：如果您要停止操作，请将样本置于 4°C 的PCR仪中，或者将样本在 2°C 至 8°C 下保存过夜。</b></span>
 
-## 直至下一安全停止点前需要的准备工作
+# 直至下一安全停止点前需要的准备工作
 解冻试剂： 
 
 <table>

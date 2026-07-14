@@ -1,9 +1,9 @@
 ---
 date: 2022-01-03
 category:
-  - 细胞实验
+  - 杂项
 tag:
-  - 蛋白
+  - 杂项
 archive: false
 ---
 
