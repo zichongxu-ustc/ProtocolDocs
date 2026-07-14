@@ -12,7 +12,7 @@ archive: false
 # WesternBolt(WB)
 <!-- more -->
 ## 试剂
-- [常用试剂](/常用试剂.md)
+- [常用试剂](./Reagent.md)
 - 
 ## 操作
 ### 样品制备
