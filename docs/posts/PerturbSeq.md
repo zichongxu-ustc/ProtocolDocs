@@ -259,7 +259,6 @@ Program F （CRISPR prep only）
     <td>illumina Single Cell CRISPR Prep Capture, T10, Box 4 </td>
     <td>冰上溶解，每管供一个样本。冰上至多稳定5h。 </td>
   </tr>
-
 </table> 
 
 # Stage 1 mRNA Capture 
@@ -803,6 +802,7 @@ Set the reaction volume to 25 μL
   <td>IPB2 </td>
   <td>illumina Single Cell CRISPR Prep Capture, T10, Box 2 </td>
   <td>放置30min至室温 </td>
+  </tr>
 </table> 
 
 ## Step 11 QC产物清洗（30 min）
@@ -1469,7 +1469,6 @@ Set the reaction volume to ？
     <td>15s </td>
   </tr>
   <tr>
-    <td></td>
     <td>67℃</td>
     <td>30s </td>
   </tr>
@@ -1497,7 +1496,7 @@ Set the reaction volume to ？
 <span style="color: red;">设置时注意循环数-1</span>  
 若 cDNA 浓度>200 ng/μL 则需要降低 1-2 循环数 
 
-3. 按以下操作准备 index 管 
+1. 按以下操作准备 index 管 
 a. 将条带侧面带有 index 的孔的方向与盒盖上的 index 图以及以下图表中的 index 图对齐   
 <img :src="$withBase('/picture/PerturbSeq/011.png')" />
 
