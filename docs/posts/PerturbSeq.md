@@ -16,7 +16,8 @@ tag:
 1.  样本准备：FACS 出的 mAmetrine+ 细胞，FACS 后测量细胞密度是否符合预期 
 2.  干浴器设置   
 Program A 细胞裂解 
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -43,11 +44,13 @@ Program A 细胞裂解
   <tr>
     <td>Hold </td>
     <td>20℃ </td>
+    <td></td>
   </tr>
 </table>
 
 Program B 细胞核裂解 
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -70,11 +73,13 @@ Program B 细胞核裂解
   <tr>
     <td>Hold </td>
     <td>4℃ </td>
+    <td></td>
   </tr>
 </table>
 
 Program C 逆转录（sc 3’ RNA prep only） 
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -101,11 +106,13 @@ Program C 逆转录（sc 3’ RNA prep only）
   <tr>
     <td>Hold </td>
     <td>4℃ </td>
+    <td></td>
   </tr>
 </table>
 
 Program E 逆转录（CRISPR prep only） 
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -124,11 +131,13 @@ Program E 逆转录（CRISPR prep only）
   <tr>
     <td>Hold </td>
     <td>4℃ </td>
+    <td></td>
   </tr>
 </table>
 
 Program F （CRISPR prep only） 
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -151,10 +160,12 @@ Program F （CRISPR prep only）
   <tr>
     <td>Hold </td>
     <td>20℃ </td>
+    <td></td>
   </tr>
 </table>
 
 3.  解冻试剂 
+
 
 <table>
   <tr>
@@ -521,7 +532,8 @@ d.  不要触及沉淀，弃去上清至管架 A 刻度线处。
 Set the lid temperature to 105 ℃ 
 Set the reaction volume to ？ 
 
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -553,6 +565,7 @@ Set the reaction volume to ？
   <tr>
     <td>Hold </td>
     <td>4℃ </td>
+    <td></td>
   </tr>
 </table>
 <mark>注：指定的程序参数对于检测性能至关重要。请勿更改 PCR 循环次数。更改程序会导致结果无法使用。</mark>（<span style="color: red;">注意设置程序时循环数-1</span>） 
@@ -576,6 +589,7 @@ Set the reaction volume to ？
 
 ## 直至下一安全停止点前需要的准备工作
 ### 解冻试剂（2-8℃储存 ） 
+
 
 <table>
   <tr>
@@ -715,7 +729,8 @@ WTA2—吸吹混匀，瞬时离心。
 2.  将以下 QC Amplication 程序保存在热循环仪上, 此程序中，退火和延伸都在 69 ℃进行：   
 Set the lid temperature to 105 ℃   
 Set the reaction volume to 25 μL   
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -747,11 +762,13 @@ Set the reaction volume to 25 μL
   <tr>
     <td>Hold </td>
     <td>4℃ </td>
+    <td></td>
   </tr>
 </table>
 
 调整程序以针对不同的输入质量和浓度进行优化
-<table border="1">
+
+<table>
   <tr>
     <th>Sample Input </th>
     <th>Number of QC PCR Cycles(X)</th>
@@ -789,6 +806,7 @@ Set the reaction volume to 25 μL
 
 ## 直至下一安全停止点前需要的准备工作
 解冻试剂： 
+
 <table>
   <tr>
   <th colspan="3">2-8℃储存</th>
@@ -860,6 +878,7 @@ The following image is a representative cDNA trace for a 17,000 human cell input
 1. 取出已完成 cDNA 分离（cDNA isolation）并保存在冰上的 CPIP。 
 2. 若 CPIPs 储存于-20℃，冰上溶解	
 3.	取出下表试剂	
+
 <table>
   <tr>
   <th colspan="4">2-8℃储存</th>
@@ -935,7 +954,8 @@ CAPM——吹吸混匀后瞬时离心
 2.  将以下 <mark>gRNA Amplication </mark>程序保存在 PCR 仪上   
 Set the lid temperature to 105 ℃   
 Set the reaction volume to  135 μL   
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -963,6 +983,7 @@ Set the reaction volume to  135 μL
   <tr>
     <td>Hold </td>
     <td>4℃ </td>
+    <td></td>
   </tr>
 </table>
 最佳循环数需要根据样品调整，<mark>每个样品的产出浓度应该在 1-2 ng/μL </mark>
@@ -988,6 +1009,7 @@ Set the reaction volume to  135 μL
 
 ## 直至下一安全停止点前需要的准备工作
 取出以下试剂： 
+
 <table>
   <tr>
   <th colspan="4">2-8℃储存</th>
@@ -1070,6 +1092,7 @@ c. 不要搅动磁珠，移除并丢弃 200 μL 乙醇。
 
 ## 直至下一安全停止点前需要的准备工作
 取出以下试剂按顺序解冻:
+
 <table>
   <tr>
   <th colspan="4">-25--15℃储存 </th>
@@ -1104,7 +1127,8 @@ c. 不要搅动磁珠，移除并丢弃 200 μL 乙醇。
 2.  保存以下 PCR 程序：   
 Set the lid temperature to 105 ℃   
 Set the reaction volume to   μL   
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -1136,6 +1160,7 @@ Set the reaction volume to   μL
   <tr>
     <td>Hold </td>
     <td>4℃ </td>
+    <td></td>
   </tr>
 </table>
 根据样品调整最佳循环数
@@ -1161,6 +1186,7 @@ b.  PMM4 （12.5 μL）
 
 ## 直至下一安全停止点前需要的准备工作
 取出以下试剂 
+
 <table>
   <tr>
   <th colspan="4">-25--15℃储存 </th>
@@ -1222,6 +1248,7 @@ c. 不要搅动磁珠，移除并丢弃 200 μL 乙醇。
 <mark>文库制备需要用从 cDNA 纯化步骤得到的全部 40 μL cDNA</mark>，而不是 QC 产物 
 
 2. 取出以下试剂按顺序解冻： 
+
 <table>
   <tr>
   <th colspan="4">2-8℃储存  </th>
@@ -1280,6 +1307,7 @@ c. 不要搅动磁珠，移除并丢弃 200 μL 乙醇。
 </table>
 
 1. 解冻 index 
+
 <table>
   <tr>
   <th colspan="3">-25- -15℃储存  </th>
@@ -1312,7 +1340,8 @@ c. 不要搅动磁珠，移除并丢弃 200 μL 乙醇。
 3.  保存 <mark>cDNA Fragmentation </mark>程序在 PCR 仪中：   
 Set the lid temperature to 105 ℃   
 Set the reaction volume to ？    
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -1334,6 +1363,7 @@ Set the reaction volume to ？
     <td>30s </td>
   </tr>
   <tr>
+    <td></td>
     <td>65℃ </td>
     <td>30min </td>
   </tr>
@@ -1375,7 +1405,8 @@ b.  置于冰上保存
 a.  涡旋混匀   
 b.  瞬时离心   
 3.  保存以下 Ligation 程序于 PCR 仪中： 
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -1452,7 +1483,8 @@ c.  不要搅动磁珠，移除所有上清液。
 2.  PCR 仪上保存以下程序：   
 Set the lid temperature to 105℃   
 Set the reaction volume to ？   
-<table border="1">
+
+<table>
   <tr>
     <th>STEP</th>
     <th>TEMP</th>
@@ -1514,6 +1546,7 @@ b.  PMM4 （12.5 μL）
 
 ## 直至下一安全停止点前需要的准备工作
 解冻试剂： 
+
 <table>
   <tr>
   <th colspan="3">2-8℃储存  </th>
