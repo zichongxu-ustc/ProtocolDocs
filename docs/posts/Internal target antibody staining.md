@@ -12,7 +12,6 @@ tag:
 ## 试剂
 - 4%PFA(实验室-20上中左抽屉)
 - 破膜液  
-
 10× eBio-permealization Buffer加水稀释
 
 - Colktail（1×）  
