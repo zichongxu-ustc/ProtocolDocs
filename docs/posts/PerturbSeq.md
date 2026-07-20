@@ -812,7 +812,7 @@ Set the reaction volume to 25 μL
 | 0.5X PWB1 |          7.75           |             34.1             |             68.2             |
 |   Total   |           15            |              66              |             132              |
 7.  涡旋混匀，然后瞬时离心。 
-8.  向每个样本中加入 15 μL 的 QC Master Mix。 
+8.  向每个样本中加入 15 μL 的 QC Master Mix。   
 每个样本的总体积为 25 μL。 
 9.  瞬时离心。 
 10.  置于 PCR 仪上运行 QC Amplification 程序。   

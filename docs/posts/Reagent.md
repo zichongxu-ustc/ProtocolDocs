@@ -25,10 +25,11 @@ tag:
 - 144g Glycine（甘氨酸）
 定容至1L
 
-## 1× Transfer Buffer(转膜缓冲液)(按顺序加入)
+## 1× Transfer Buffer(转膜缓冲液)
 - 100mL 10× Transfer Buffer
 - 700mL ddH2O
-- 200mL 甲醇
+- 200mL 甲醇  
+按顺序加入
 
 ## 10× TBS 
 - 24.228g Tris (121.14 g/mol,200mM)
